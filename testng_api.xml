@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Api_Test_Suite" parallel="classes" thread-count="5" >
+  <test name="TestapiAutomationTest">
+    <classes>
+      <class name="com.qa.test.Guixml"/>
+      <class name="com.qa.test.Instrxml"/>
+      <class name="com.qa.test.Reputation"/>
+      <class name="com.qa.test.Search"/>
+      <class name="com.qa.test.Update"/>
+    </classes>
+  </test> <!-- TestapiAutomationTest -->
+</suite> <!-- Api_Test_Suite -->
