@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14404" started-at="2021-08-18T08:53:29Z" finished-at="2021-08-18T08:53:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14404" started-at="2021-08-18T08:53:29Z" finished-at="2021-08-18T08:53:43Z">
+      <class name="com.qa.test.Guixml">
+        <test-method status="PASS" signature="guiXMLResponse()[pri:0, instance:com.qa.test.Guixml@c6a292]" name="guiXMLResponse" duration-ms="14373" started-at="2021-08-18T14:23:29Z" finished-at="2021-08-18T14:23:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guiXMLResponse -->
+      </class> <!-- com.qa.test.Guixml -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
